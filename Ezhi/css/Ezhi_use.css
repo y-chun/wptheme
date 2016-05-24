@@ -1,0 +1,7 @@
+.page_header{width: 630px; height: 50px; line-height: 50px; overflow: hidden;margin-left: 15px;}
+.page_header h2{margin: 0 auto;}
+.content_detail{width: 620px; margin: 0 auto;}
+.content_detail p{line-height: 30px;display: inline; }
+.content_detail img{max-width:100%;height: auto;}
+.content_detail code{width: 610px;width: 100%;background-color: ##464545;border-radius: 10px;}
+.content_detail code p{color: ##FDA911;}

@@ -1,0 +1,16 @@
+header,body,div,li,ul,h1,h2,h3,h4,h5,p{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font:15px Verdana, Geneva, sans-serif;
+padding: 0px;
+background-color: #000;
+    color: #76838f;
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+}
+.accordion_detail a{
+font:12px/1.5 Verdana, Geneva, sans-serif;
+}
